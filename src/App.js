@@ -9,7 +9,7 @@ import myEpicNft from './utils/MyEpicNFT.json';
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // const OPENSEA_LINK = '';
-const TOTAL_MINT_COUNT = 50;
+// const TOTAL_MINT_COUNT = 50;
 const CONTRACT_ADDRESS = "0x18E08d8cBD0D848C6a625E8cF8F84b3eDA7B5aB9";
 
 
