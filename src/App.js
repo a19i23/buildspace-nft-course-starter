@@ -149,6 +149,7 @@ const App = () => {
   */
   useEffect(() => {
     checkIfWalletIsConnected();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
   // Render Methods
   // const renderNotConnectedContainer = () => (
